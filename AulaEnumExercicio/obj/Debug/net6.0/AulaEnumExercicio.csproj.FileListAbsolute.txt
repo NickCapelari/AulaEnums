@@ -1,0 +1,15 @@
+D:\Curso.Net\AulaEnumExercicio\AulaEnumExercicio\bin\Debug\net6.0\AulaEnumExercicio.exe
+D:\Curso.Net\AulaEnumExercicio\AulaEnumExercicio\bin\Debug\net6.0\AulaEnumExercicio.deps.json
+D:\Curso.Net\AulaEnumExercicio\AulaEnumExercicio\bin\Debug\net6.0\AulaEnumExercicio.runtimeconfig.json
+D:\Curso.Net\AulaEnumExercicio\AulaEnumExercicio\bin\Debug\net6.0\AulaEnumExercicio.dll
+D:\Curso.Net\AulaEnumExercicio\AulaEnumExercicio\bin\Debug\net6.0\ref\AulaEnumExercicio.dll
+D:\Curso.Net\AulaEnumExercicio\AulaEnumExercicio\bin\Debug\net6.0\AulaEnumExercicio.pdb
+D:\Curso.Net\AulaEnumExercicio\AulaEnumExercicio\obj\Debug\net6.0\AulaEnumExercicio.csproj.AssemblyReference.cache
+D:\Curso.Net\AulaEnumExercicio\AulaEnumExercicio\obj\Debug\net6.0\AulaEnumExercicio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso.Net\AulaEnumExercicio\AulaEnumExercicio\obj\Debug\net6.0\AulaEnumExercicio.AssemblyInfoInputs.cache
+D:\Curso.Net\AulaEnumExercicio\AulaEnumExercicio\obj\Debug\net6.0\AulaEnumExercicio.AssemblyInfo.cs
+D:\Curso.Net\AulaEnumExercicio\AulaEnumExercicio\obj\Debug\net6.0\AulaEnumExercicio.csproj.CoreCompileInputs.cache
+D:\Curso.Net\AulaEnumExercicio\AulaEnumExercicio\obj\Debug\net6.0\AulaEnumExercicio.dll
+D:\Curso.Net\AulaEnumExercicio\AulaEnumExercicio\obj\Debug\net6.0\ref\AulaEnumExercicio.dll
+D:\Curso.Net\AulaEnumExercicio\AulaEnumExercicio\obj\Debug\net6.0\AulaEnumExercicio.pdb
+D:\Curso.Net\AulaEnumExercicio\AulaEnumExercicio\obj\Debug\net6.0\AulaEnumExercicio.genruntimeconfig.cache
